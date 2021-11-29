@@ -1,5 +1,5 @@
 {
-  "name": "for-blog-post",
+  "name": "example-chat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,9 +10,11 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "nanoid": "^3.1.30",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "seed-to-color": "^1.0.4",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },

@@ -7377,6 +7377,11 @@ nanoid@^3.1.20:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.20.tgz#badc263c6b1dcf14b71efaa85f6ab4c1d6cfc788"
   integrity sha512-a1cQNyczgKbLX9jwbS/+d7W8fX/RfgYR7lVWwWOGIPNgK2m0MWvrGF6/m4kk6U3QcFMnZf3RIhL0v2Jgh/0Uxw==
 
+nanoid@^3.1.30:
+  version "3.1.30"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.30.tgz#63f93cc548d2a113dc5dfbc63bfa09e2b9b64362"
+  integrity sha512-zJpuPDwOv8D2zq2WRoMe1HsfZthVewpel9CAvTfc/2mBD1uUT/agc5f7GHGWXlYkFvi1mVxe4IjvP2HNrop7nQ==
+
 nanomatch@^1.2.9:
   version "1.2.13"
   resolved "https://registry.yarnpkg.com/nanomatch/-/nanomatch-1.2.13.tgz#b87a8aa4fc0de8fe6be88895b38983ff265bd119"
@@ -9691,6 +9696,11 @@ schema-utils@^3.0.0:
     "@types/json-schema" "^7.0.6"
     ajv "^6.12.5"
     ajv-keywords "^3.5.2"
+
+seed-to-color@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/seed-to-color/-/seed-to-color-1.0.4.tgz#5cdc9bf33fc60c8711e7ab0d6c0c4467a6a1156b"
+  integrity sha512-1JNJTQGBddK1Ft8JClCfRmZQtwaG9wJYoWJblrR7x55MFXGA//zTHhd9pFQbEcWGiBjZY8RTWQoyj3qTj7nb0Q==
 
 select-hose@^2.0.0:
   version "2.0.0"
